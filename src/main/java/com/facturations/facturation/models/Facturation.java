@@ -24,7 +24,7 @@ public class Facturation {
     @Column(name = "price")
     private Double price;
 
-    @Column(name = "facturationId")
+    @Column(name = "facturationcol")
     private String facturationId;
 
     @Column(name = "status")
